@@ -18,5 +18,6 @@ This project involves building a machine learning model to classify whether a pe
 - **target**: The output class (1 = has heart disease; 0 = no heart disease)
 
 The SVM model was trained and evaluated to determine its effectiveness in predicting heart disease based on these features. This project aims to contribute to the development of tools that assist in early diagnosis and treatment planning.
+![image](https://github.com/user-attachments/assets/2231cb04-57fe-477e-8300-666bb82d39f7)
 
 
